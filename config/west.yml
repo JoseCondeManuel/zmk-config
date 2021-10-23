@@ -3,9 +3,9 @@ manifest:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
     - name: JoseCondeManuel
-      url-base: https://github.com/josecondemanuel
+      url-base: https://github.com/JoseCondeManuel/zmk-config
   projects:
-    - name: zmk
+    - name: zmk-config
       remote: JoseCondeManuel
       revision: main
       import: app/west.yml
