@@ -2,10 +2,12 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
+    - name: JoseCondeManuel
+      url-base: https://github.com/JoseCondeManuel
   projects:
     - name: zmk
-      remote: zmkfirmware
-      revision: main
+      remote: JoseCondeManuel
+      revision: RightHandFlip
       import: app/west.yml
   self:
     path: config
