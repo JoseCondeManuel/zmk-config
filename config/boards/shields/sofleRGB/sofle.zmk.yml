@@ -10,5 +10,5 @@ features:
   - display
   - encoder
 siblings:
-  - sofle_left
-  - sofle_right
+  - sofleRGB_left
+  - sofleRGB_right
