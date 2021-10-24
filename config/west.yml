@@ -10,4 +10,4 @@ manifest:
       revision: master
       import: true
   self:
-    path: config/boards/shield/sofleRGB/
+    path: config/boards/shields/sofleRGB/
