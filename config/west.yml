@@ -6,7 +6,7 @@ manifest:
       url-base: https://github.com/JoseCondeManuel
   projects:
     - name: zmk-config
-      remote: mosemondemanuel
+      remote: josecondemanuel
       revision: master
       import: app/west.yml
   self:
