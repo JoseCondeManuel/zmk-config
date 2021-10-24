@@ -8,6 +8,5 @@ manifest:
     - name: zmk-config
       remote: JoseCondeManuel
       revision: master
-      import: true
   self:
     path: config/boards/shields/sofleRGB/
