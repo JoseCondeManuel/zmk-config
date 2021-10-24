@@ -8,6 +8,6 @@ manifest:
     - name: zmk-config
       remote: josecondemanuel
       revision: master
-      import: app/west.yml
+      import: true
   self:
     path: config
