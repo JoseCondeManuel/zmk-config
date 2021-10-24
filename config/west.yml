@@ -5,8 +5,9 @@ manifest:
     - name: JoseCondeManuel
       url-base: https://github.com/JoseCondeManuel
   projects:
-    - name: zmk-config
-      remote: JoseCondeManuel
-      revision: master
+    - name: zephyr
+      remote: zmkfirmware
+      revision: v2.5.0+zmk-fixes
+      import: true
   self:
-    path: config/boards/shields/sofleRGB/
+    path: config
