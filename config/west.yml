@@ -2,12 +2,12 @@ manifest:
   remotes:
     - name: zmkfirmware
       url-base: https://github.com/zmkfirmware
-    - name: JoseCondeManuel
-      url-base: https://github.com/josecondemanuel
+ #   - name: JoseCondeManuel
+ #     url-base: https://github.com/josecondemanuel
   projects:
-    - name: zephyr
+    - name: zmk
       remote: zmkfirmware
-      revision: v2.5.0+zmk-fixes
-      import: true
+      revision: main
+      import: app/west.yml
   self:
     path: config
