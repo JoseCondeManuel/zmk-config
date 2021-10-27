@@ -1,6 +1,6 @@
 file_format: "1"
-id: sofle
-name: Sofle
+id: sofleRGB
+name: SofleRGB
 type: shield
 url: https://github.com/josefadamcik/SofleKeyboard
 requires: [pro_micro]
