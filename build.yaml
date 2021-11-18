@@ -17,11 +17,11 @@ include:
  #   shield: sofle_left
  # - board: nice_nano_v2
  #   shield: sofle_right
-  - board: nice_nano_v2
-    shield: sofleRGB_left
-  - board: nice_nano_v2
-    shield: sofleRGB_right
+ # - board: nice_nano_v2
+ #   shield: sofleRGB_left
+ # - board: nice_nano_v2
+ #   shield: sofleRGB_right
   - board: nice_nano_v2
     shield: dactylM_left
-  - board: nice_nano_v2
-    shield: dactylM_right
+ # - board: nice_nano_v2
+ #   shield: dactylM_right
