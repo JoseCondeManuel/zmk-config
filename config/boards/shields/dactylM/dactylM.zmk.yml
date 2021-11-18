@@ -7,8 +7,6 @@ requires: [pro_micro]
 exposes: [i2c_oled]
 features:
   - keys
-  - display
-  - encoder
 siblings:
   - dactylM_left
   - dactylM_right
