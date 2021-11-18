@@ -1,8 +1,8 @@
 file_format: "1"
-id: sofleRGB
-name: SofleRGB
+id: dactylM
+name: dactylM
 type: shield
-url: https://github.com/josefadamcik/SofleKeyboard
+url: 
 requires: [pro_micro]
 exposes: [i2c_oled]
 features:
@@ -10,5 +10,5 @@ features:
   - display
   - encoder
 siblings:
-  - sofleRGB_left
-  - sofleRGB_right
+  - dactylM_left
+  - dactylM_right
