@@ -20,7 +20,3 @@
 		, <&pro_micro 15 GPIO_ACTIVE_HIGH>
 		;
 };
-
-&right_encoder {
-	status = "okay";
-};
