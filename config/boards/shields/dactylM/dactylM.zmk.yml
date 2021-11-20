@@ -2,13 +2,10 @@ file_format: "1"
 id: dactylM
 name: dactylM
 type: shield
-url: 
+url: https://github.com/josecondemanuel/zmk-config
 requires: [pro_micro]
-exposes: [i2c_oled]
 features:
   - keys
-  - display
-  - encoder
 siblings:
   - dactylM_left
   - dactylM_right
