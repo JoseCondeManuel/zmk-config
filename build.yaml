@@ -12,6 +12,7 @@
 #     shield: reviung41
 #
 ---
+board: [ "nice_nano_v2" ]
 include:
  # - board: nice_nano_v2
  #   shield: sofle_left
