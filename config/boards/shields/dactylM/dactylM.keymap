@@ -26,13 +26,10 @@
 &kp LCTRL &kp A  &kp S    &kp D    &kp F     &kp G                       &kp H  &kp J     &kp K     &kp L    &kp SEMI &kp SQT
 &kp LSHFT &kp Z  &kp X    &kp C    &kp V     &kp B                       &kp N  &kp M     &kp COMMA &kp DOT  &kp FSLH &kp RSHFT
                  &kp LGUI &kp LALT                                                        &kp RALT  &kp RGUI
-                                   &mo 1     &kp BSPC                    &kp SPACE &mo 2 
-                                   &kp LCTRL &mo 1                       &kp ENTER  &mo 3 
-                                   &kp LCTRL &mo 1                       &mo 2  &kp RCTRL  
-                                   &kp LCTRL &mo 1                       &mo 2  &kp RCTRL 
+                                   &kp DELETE&kp BSPC                    &kp SPACE &kp ENTER
+                                   &mo 4     &mo 1                       &mo 2  &mo 3 
+                                   &kp LEFT   &kp DOWN                   &kp UP  &kp RIGHT  
             >;
-
-
         };
 
         lower_layer {
