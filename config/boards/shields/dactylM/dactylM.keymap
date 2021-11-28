@@ -10,7 +10,8 @@
 #include <dt-bindings/zmk/bt.h>
 
 #define AS(keycode) &as LS(keycode) keycode
-        behaviors {
+  / {
+  behaviors {
             as: auto_shift {
                 compatible = "zmk,behavior-hold-tap";
                 label = "AUTO_SHIFT";
