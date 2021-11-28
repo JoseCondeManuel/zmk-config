@@ -10,7 +10,7 @@
 #include <dt-bindings/zmk/bt.h>
 
 #define AS(keycode) &as LS(keycode) keycode
-  / {
+  /* {
   behaviors {
             as: auto_shift {
                 compatible = "zmk,behavior-hold-tap";
@@ -22,7 +22,7 @@
                 bindings = <&kp>, <&kp>;
             };
         };
-
+  */
 
 / {
     keymap {
