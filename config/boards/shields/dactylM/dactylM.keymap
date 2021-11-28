@@ -22,7 +22,7 @@ behaviors {
       bindings = <&kp>, <&kp>;
   };
 };
-*/
+
 
 / {
     keymap {
