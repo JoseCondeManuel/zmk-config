@@ -39,10 +39,10 @@
 // | SHIFT |  Z  |  X  |  C   |  V   |  B   |  MUTE  |  |       |  N   |  M    |  ,    |  .   |   /   | SHIFT |
 //               | GUI | ALT  | CTRL | LOWER|  ENTER |  | SPACE | RAISE| CTRL  | ALT   | GUI  |
             bindings = <
-&kp ESC   &kp N1 &kp N2   &kp N3   &kp N4    &kp N5                      &kp N6 &kp N7    &kp N8    &kp N9   &kp N0   &none
-&kp TAB   &kp Q  &kp W    &kp E    &kp R     &kp T                       &kp Y  &kp U     &kp I     &kp O    &kp P    &kp BSPC
-&kp LCTRL &kp A  &kp S    &kp D    &kp F     &kp G                       &kp H  &kp J     &kp K     &kp L    &kp SEMI &kp SQT
-&kp LSHFT &kp Z  &kp X    &kp C    &kp V     AS(B)                       &kp N  &kp M     &kp COMMA &kp DOT  &kp FSLH &kp RSHFT
+&kp ESC   AS(N1) AS(N2)   AS(N3)   AS(N4)    AS(N5)                      AS(N6) AS(N7)    AS(N8)    AS(N9)   AS(N0)   &none
+AS(TAB)   AS(Q)  AS(W)    AS(E)    AS(R)     AS(T)                       AS(Y)  AS(U)     AS(I)     AS(O)    AS(P)    &kp BSPC
+&kp LCTRL AS(A)  AS(S)    AS(D)    AS(F)     AS(G)                       AS(H)  AS(J)     AS(K)     AS(L)    AS(SEMI) &kp SQT
+&kp LSHFT AS(Z)  AS(X)    AS(C)    AS(V)     AS(B)                       AS(N)  AS(M)     AS(COMMA) AS(DOT)  AS(FSLH) &kp RSHFT
                  &kp LGUI &kp LALT                                                        &kp RALT  &kp RGUI
                                    &kp DELETE&kp BSPC                    &kp SPACE &kp ENTER
                                    &mo 4     &mo 1                       &mo 2  &mo 3 
