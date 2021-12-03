@@ -69,7 +69,7 @@ AS(TAB)   AS(Q)  AS(W)    AS(E)    AS(R)     AS(T)                       AS(Y)  
            bindings = <
 &kp GRAVE   AS(N1) AS(N2)   AS(N3)   AS(N4)    AS(N5)                     AS(N6)   AS(N7)    AS(N8)    AS(N9)     AS(N0)   &none
 &kp GRAVE   AS(Q)  AS(W)    AS(E)    AS(R)     AS(T)                      AS(Y)    AS(U)     AS(I)     AS(O)      AS(P)    &kp BSPC
-&kp LCTRL   AS(A)  AS(S)    AS(D)    AS(F)     AS(G)                      &kp LEFT &kp DOWN  &kp UP    &kp RIGHT) AS(SEMI) &kp SQT
+&kp LCTRL   AS(A)  AS(S)    AS(D)    AS(F)     AS(G)                      &kp LEFT &kp DOWN  &kp UP    &kp RIGHT AS(SEMI) &kp SQT
 &bt BT_CLR  AS(Z)  AS(X)    AS(C)    AS(V)     AS(B)                      &kp HOME &kp PG_DN &kp PG_UP &kp END    AS(FSLH) &bt BT_CLR
                  &kp LGUI &kp LALT                                                           &kp RALT  &caps_word
                                    &kp DELETE  &kp BSPC                   &kp SPACE &kp ENTER
