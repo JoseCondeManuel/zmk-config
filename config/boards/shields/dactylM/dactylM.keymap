@@ -14,8 +14,8 @@
 #define DEFAULT 0
 #define Movement 1
 #define NumPad 2
-#define Macro 3
-#define Mouse 4
+//#define Macro 3
+//#define Mouse 4
 
 #define AS(keycode) &as LS(keycode) keycode
 
