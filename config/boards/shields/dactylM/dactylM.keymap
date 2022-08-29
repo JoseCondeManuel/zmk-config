@@ -53,7 +53,7 @@ AS(TAB)   AS(Q)  AS(W)    AS(E)    AS(R)     AS(T)                       AS(Y)  
 &kp LSHFT AS(Z)  AS(X)    AS(C)    AS(V)     AS(B)                       AS(N)  AS(M)     AS(COMMA) AS(DOT)  AS(FSLH) AS(BSLH)
                  &kp LGUI &kp LALT                                                        &kp RALT  &kp K_CMENU
                                     &kp DELETE &kp BSPC                  &kp SPACE &kp ENTER
-                                    &tog 1 &mo 1                         &mo 2  &mo 3 
+                                    &mo 1       &mo 1                         &mo 2  &mo 3 
                                     &kp LEFT &kp DOWN                    &kp UP  &kp RIGHT  
             >;
         };
@@ -73,7 +73,7 @@ AS(GRAVE)   AS(N1)     AS(N2)      AS(N3)       AS(N4)        AS(N5)            
 &bt BT_CLR  &kp LC(Z)  &kp LC(X)   &kp LC(C)    AS(V)         AS(B)                   &kp HOME  &kp PG_DN &kp PG_UP &kp END    AS(FSLH) &bt BT_CLR
                        &kp LGUI    &kp LALT                                                               &kp RALT  &caps_word
                                                &kp DELETE    &kp BSPC                  &kp SPACE &kp ENTER
-                                               &tog 1 &mo 1                     &mo 2     &mo 3 
+                                               &mo 1    &mo 1                     &mo 2     &mo 3 
                                                &kp LEFT      &kp DOWN                  &kp LEFT  &kp DOWN                
             >;
        
