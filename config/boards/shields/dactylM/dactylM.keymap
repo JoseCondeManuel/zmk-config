@@ -68,7 +68,7 @@ AS(TAB)   AS(Q)  AS(W)    AS(E)    AS(R)     AS(T)                       AS(Y)  
 //               |     |      |      |      |        |  |       |      |       |       |      |
            bindings = <
 AS(GRAVE)   AS(N1)     AS(N2)      AS(N3)       AS(N4)        AS(N5)                  AS(N6)    AS(N7)    AS(N8)    AS(LBKT)     AS(RBKT)   &none
-&kp GRAVE   &kp C_PP    &kp C_NEXT  &kp C_VOL_DN &kp C_VOL_UP  &kp C_MUTE              AS(Y)     AS(U)     AS(I)     AS(O)      AS(P)    &kp BSPC
+&kp GRAVE   &kp LCTRL   &kp LC(A)  &kp LC(S)   &kp LC(D)    AS(F)         AS(G)                   &kp LEFT  &kp DOWN  &kp UP    &kp RIGHT AS(SEMI) &kp SQT
 &kp LCTRL   &kp LC(A)  &kp LC(S)   &kp LC(D)    AS(F)         AS(G)                   &kp LEFT  &kp DOWN  &kp UP    &kp RIGHT AS(SEMI) &kp SQT
 &bt BT_CLR  &kp LC(Z)  &kp LC(X)   &kp LC(C)    AS(V)         AS(B)                   &kp HOME  &kp PG_DN &kp PG_UP &kp END    AS(FSLH) &bt BT_CLR
                        &kp LGUI    &kp LALT                                                               &kp RALT  &caps_word
