@@ -54,7 +54,7 @@ AS(TAB)   AS(Q)  AS(W)    AS(E)    AS(R)     AS(T)                       AS(Y)  
                  &kp LGUI &kp LALT                                                        &kp RALT  &kp K_CMENU
                                     &kp DELETE  &kp BSPC                &kp SPACE     &kp ENTER
                                     &tog 1      &mo 1                    &mo 2  &tog 3 
-                                    &kp LEFT &kp DOWN                    &kp UP  &kp RIGHT  
+                                    &kp K_CUT &K_PASTE                    AS(LBKT) AS(RBKT)  
             >;
         };
 
