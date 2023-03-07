@@ -47,7 +47,7 @@
 //                            | Lyr4 | Lyr1  |                   | Lyr2  | Lyr3  |
 //                            | LEFT | DOWN  |                   | UP    | RIGHT |
             bindings = <
-&kp ESC   AS(N1) AS(N2)   AS(N3)   AS(N4)    AS(N5)                      AS(N6) AS(N7)    AS(N8)    AS(N9)   AS(N0)   AS(EQUAL)
+&kp ESC   AS(N1) AS(N2)   AS(N3)   AS(N4)    AS(N5)                       AS(N6) AS(N7)    AS(N8)    AS(N9)   AS(N0)   AS(EQUAL)
 AS(TAB)   AS(Q)  AS(W)    AS(E)    AS(R)     AS(T)                       AS(Y)  AS(U)     AS(I)     AS(O)    AS(P)    AS(MINUS)
 &kp LCTRL AS(A)  AS(S)    AS(D)    AS(F)     AS(G)                       AS(H)  AS(J)     AS(K)     AS(L)    AS(SEMI) AS(SQT)
 &kp LSHFT AS(Z)  AS(X)    AS(C)    AS(V)     AS(B)                       AS(N)  AS(M)     AS(COMMA) AS(DOT)  AS(FSLH) AS(BSLH)
